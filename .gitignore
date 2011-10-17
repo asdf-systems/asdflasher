@@ -2,3 +2,6 @@
 *.swp
 *~
 
+/android/build
+/android/gen
+
